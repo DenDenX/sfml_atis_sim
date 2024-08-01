@@ -19,7 +19,7 @@ Bu proje, SFML (Simple and Fast Multimedia Library) kullanılarak geliştirilmi�
 1. SFML kütüphanesini indirin ve kurun. [SFML İndir](https://www.sfml-dev.org/download.php)
 2. Bu projeyi klonlayın veya indirin:
     ```sh
-    git clone https://github.com/kullanici_adi/sfml-atis-sim.git
+    git clone https://github.com/DenDenX/sfml-atis-sim.git
     ```
 3. `main.cpp` dosyasını derleyin:
     ```sh
